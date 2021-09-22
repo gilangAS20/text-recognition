@@ -1,2 +1,2 @@
 # text-recognition
-ORC text recognition
+text recognition dengan Tesseract OCR
